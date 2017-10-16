@@ -1,2 +1,4 @@
 # 277Real
-Basic Music 
+Basic Music Player
+Designed by Jordan Dorham
+There are some issues with it. 
